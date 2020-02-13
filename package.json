@@ -1,8 +1,8 @@
 {
-  "name": "nodejs-typescript-project-template",
+  "name": "nodejs-napi-project-template",
   "version": "1.0.0",
   "main": "dist",
-  "repository": "https://github.com/devzolo/nodejs-typescript-project-template.git",
+  "repository": "https://github.com/devzolo/nodejs-napi-project-template.git",
   "author": "Raphael-ZoLo <zolotorevsky@gmail.com>",
   "license": "MIT",
   "devDependencies": {

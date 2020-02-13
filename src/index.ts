@@ -1,2 +1,2 @@
-const str = 'Hello World!';
-console.log(str);
+const example = require(`../bin/${process.platform}/${process.arch}/example`);
+export default example;
